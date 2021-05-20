@@ -1,1 +1,1 @@
-# TS-Starter-Kit
+# JS-Starter-Kit
